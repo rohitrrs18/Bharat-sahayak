@@ -1,0 +1,8 @@
+node_modules
+.next
+.env*.local
+.vercel
+*.log
+public/sw.js
+public/workbox-*.js
+public/fallback-*.js

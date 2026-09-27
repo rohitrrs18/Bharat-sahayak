@@ -308,16 +308,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 📞 Support & Helplines
-
-Bharat Sahayak is a helper, not a replacement for professional advice.
-
-- **Kisan Call Centre:** 1800-180-1551 (toll-free, 22 Indian languages)
-- **PM-KISAN Helpline:** 155261 / 011-24300606
-- **PMFBY (Crop Insurance):** 14447
-- **Find your local KVK:** [kvk.icar.gov.in](https://kvk.icar.gov.in/)
-
----
 
 <div align="center">
 
